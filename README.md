@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Shirin.
-- 🌱 I’m currently learning about Anndroid and Kotlin.
+- 🌱 Mobile Developer at NIC, Bhopal 
